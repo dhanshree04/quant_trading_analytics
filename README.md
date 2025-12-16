@@ -86,5 +86,8 @@ graph TD
 - **ADF Test**: Checks if the spread is stationary (mean-reverting). p-value < 0.05 suggests stationarity.
 
 ## AI Usage Note
-This project was implemented with the assistance of an AI agent (Google Deepmind) to accelerate boilerplate generation, architectural planning, and statistical logic verification.
+AI tools were used to assist with development tasks such as planning the system design, creating the initial code structure, and helping with debugging during implementation. AI was also used to support the understanding and validation of statistical methods.
+
+The final system design, core logic, and all implementation decisions were carefully reviewed and completed manually.
+
 
