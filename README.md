@@ -87,3 +87,4 @@ graph TD
 
 ## AI Usage Note
 This project was implemented with the assistance of an AI agent (Google Deepmind) to accelerate boilerplate generation, architectural planning, and statistical logic verification.
+
